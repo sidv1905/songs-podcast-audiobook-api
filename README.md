@@ -1,5 +1,5 @@
 # songs-podcast-audiobook-api
-###Api made with Fastapi, Postgres for getting metadata of songs, podcasts, audiobooks.###
+### Api made with Fastapi, Postgres for getting metadata of songs, podcasts, audiobooks. ###
 
 Installation:
 * pip install -r requirements.txt
