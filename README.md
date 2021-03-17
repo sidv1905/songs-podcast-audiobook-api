@@ -3,6 +3,7 @@
 
 Installation:
 * pip install -r requirements.txt
+* Set SECRET_KEY in .env  - "postgresql://user:password@postgresserver/db"
 * uvicorn main:app --reload
 
 For documentation:
